@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/airtel-clone/static/css/main.a9dcd9c2.css",
+    "main.js": "/airtel-clone/static/js/main.26b9facf.js",
+    "index.html": "/airtel-clone/index.html",
+    "main.a9dcd9c2.css.map": "/airtel-clone/static/css/main.a9dcd9c2.css.map",
+    "main.26b9facf.js.map": "/airtel-clone/static/js/main.26b9facf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9dcd9c2.css",
+    "static/js/main.26b9facf.js"
+  ]
+}
